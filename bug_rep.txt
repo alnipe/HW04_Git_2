@@ -1,0 +1,22 @@
+Summary: COVID-19 page: The blank page is opened from link 'Promotion' in the footer
+
+STR:
+1. Open main page
+2. Go to footer
+3. In “Browse by Category” follow the link COVID-19
+4. Go to footer COVID-19 page
+5. In “Browse by Category” follow the link 'Promotion'
+
+Result: The Вlank page is opened
+
+Expected result: The page of products with special offers is opened
+
+Severity: Blocker
+
+Priority: Medium
+
+Environment: Windows 10 Pro x64 Version 10.0.19044 Build 19044 Google Chrome v.98.0.4758.102 x64
+
+Reporter: Alex P
+
+Atachment: Picture
